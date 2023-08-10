@@ -1,0 +1,20 @@
+# Plugin SetUp
+
+# If useBot is set to false the plugin is able to send the messages to a webhook.
+useBot: false
+
+# If you want to use a Discordbot, put your Discordbot-Token and the ChannelID below.
+token:
+channelID:
+# Otherwise provide a discord webhook link.
+webhook:
+
+# Configuration
+
+noChatMessages: false
+
+noJoinMessages: false
+
+noQuitMessages: false
+
+noDeathMessages: false

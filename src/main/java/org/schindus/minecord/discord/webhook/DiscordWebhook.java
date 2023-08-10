@@ -1,4 +1,4 @@
-package org.schindus.ctdc;
+package org.schindus.minecord.discord.webhook;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.awt.*;

@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.schindus</groupId>
-    <artifactId>ctdc</artifactId>
-    <version>1.0</version>
+    <artifactId>Minecord</artifactId>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>ChatToDiscord</name>
@@ -69,6 +69,13 @@
             <artifactId>spigot-api</artifactId>
             <version>1.20.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.dv8tion</groupId>
+            <artifactId>JDA</artifactId>
+            <version>5.0.0-beta.12</version>
+            <scope>compile</scope>
+            <optional>false</optional>
         </dependency>
     </dependencies>
 </project>

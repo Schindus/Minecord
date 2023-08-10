@@ -1,5 +1,6 @@
-name: ChatToDiscord
+name: Minecord
 version: '${project.version}'
-main: org.schindus.ctdc.ChatToDiscord
+main: org.schindus.minecord.Minecord
 api-version: '1.20'
 load: STARTUP
+author: SchindLess
